@@ -1,0 +1,55 @@
+[
+  [
+    {"type": "gray", "x": 200, "delay": 0.0},
+    {"type": "gray", "x": 400, "delay": 0.3},
+    {"type": "gray", "x": 600, "delay": 0.6},
+    {"type": "gray", "x": 800, "delay": 0.9},
+    {"type": "gray", "x": 1000, "delay": 1.2}
+  ],
+  [
+    {"type": "blue", "x": 250, "delay": 0.0},
+    {"type": "blue", "x": 450, "delay": 0.2},
+    {"type": "gray", "x": 650, "delay": 0.4},
+    {"type": "blue", "x": 850, "delay": 0.6},
+    {"type": "gray", "x": 1050, "delay": 0.8}
+  ],
+  [
+    {"type": "gray", "x": 300, "delay": 0.0},
+    {"type": "red", "x": 500, "delay": 0.2},
+    {"type": "gray", "x": 700, "delay": 0.4},
+    {"type": "red", "x": 900, "delay": 0.6},
+    {"type": "gray", "x": 1100, "delay": 0.8}
+  ],
+  [
+    {"type": "blue", "x": 200, "delay": 0.0},
+    {"type": "gray", "x": 400, "delay": 0.1},
+    {"type": "red", "x": 600, "delay": 0.2},
+    {"type": "gray", "x": 800, "delay": 0.3},
+    {"type": "blue", "x": 1000, "delay": 0.4},
+    {"type": "red", "x": 1200, "delay": 0.5}
+  ],
+  [
+    {"type": "gray", "x": 150, "delay": 0.0},
+    {"type": "red", "x": 300, "delay": 0.1},
+    {"type": "gray", "x": 450, "delay": 0.2},
+    {"type": "red", "x": 600, "delay": 0.3},
+    {"type": "gray", "x": 750, "delay": 0.4},
+    {"type": "red", "x": 900, "delay": 0.5},
+    {"type": "gray", "x": 1050, "delay": 0.6},
+    {"type": "red", "x": 1200, "delay": 0.7}
+  ],
+  [
+    {"type": "red", "x": 180, "delay": 0.0},
+    {"type": "gray", "x": 300, "delay": 0.05},
+    {"type": "red", "x": 420, "delay": 0.1},
+    {"type": "gray", "x": 540, "delay": 0.15},
+    {"type": "red", "x": 660, "delay": 0.2},
+    {"type": "gray", "x": 780, "delay": 0.25},
+    {"type": "red", "x": 900, "delay": 0.3},
+    {"type": "gray", "x": 1020, "delay": 0.35},
+    {"type": "red", "x": 1140, "delay": 0.4}
+  ],
+  [
+    {"type": "_BOSS_", "name": "Ridley"}
+  ]
+]

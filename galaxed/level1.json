@@ -1,0 +1,43 @@
+[
+  [
+    {"type":"blue","x":300,"delay":0.0},
+    {"type":"blue","x":500,"delay":0.3},
+    {"type":"blue","x":700,"delay":0.6}
+  ],
+  [
+    {"type":"blue","x":250,"delay":0.0},
+    {"type":"gray","x":450,"delay":0.3},
+    {"type":"blue","x":650,"delay":0.6},
+    {"type":"gray","x":850,"delay":0.9}
+  ],
+  [
+    {"type":"gray","x":200,"delay":0.0},
+    {"type":"gray","x":400,"delay":0.2},
+    {"type":"blue","x":600,"delay":0.4},
+    {"type":"gray","x":800,"delay":0.6},
+    {"type":"blue","x":1000,"delay":0.8}
+  ],
+  [
+    {"type":"gray","x":300,"delay":0.0},
+    {"type":"red","x":500,"delay":0.3},
+    {"type":"gray","x":700,"delay":0.6}
+  ],
+  [
+    {"type":"blue","x":250,"delay":0.0},
+    {"type":"gray","x":450,"delay":0.2},
+    {"type":"red","x":650,"delay":0.4},
+    {"type":"gray","x":850,"delay":0.6},
+    {"type":"blue","x":1050,"delay":0.8}
+  ],
+  [
+    {"type":"gray","x":220,"delay":0.0},
+    {"type":"red","x":420,"delay":0.2},
+    {"type":"gray","x":620,"delay":0.4},
+    {"type":"red","x":820,"delay":0.6},
+    {"type":"gray","x":1020,"delay":0.8}
+  ],
+  [
+    {"type":"_BOSS_","name":"Botwoon"}
+  ]
+]
+
